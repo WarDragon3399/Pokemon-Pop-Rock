@@ -1,0 +1,1484 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Home = 32,14,12,8
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Battle trainer.mid
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+SurfBGM = Surfing.mid
+BicycleBGM = Cycling.mp3
+PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
+PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[002]
+# Lappet Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]
+# \PN's house
+MapPosition = 0,13,12
+#-------------------------------
+[004]
+# Pokémon Lab
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[005]
+# Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+TrainerBattleBGM = Battle Gym Leader.mid
+TrainerVictoryME = Battle victory trainer.ogg
+#-------------------------------
+[006]
+# Kurt's house
+MapPosition = 0,13,11
+#-------------------------------
+[007]
+# Cedolan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]
+# Daisy's house
+MapPosition = 0,13,12
+#-------------------------------
+[009]
+# Cedolan City Poké Center
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]
+# Cedolan Gym
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+#-------------------------------
+[011]
+# Pokémon Institute
+MapPosition = 0,14,10
+#-------------------------------
+[012]
+# Cedolan City Condo
+MapPosition = 0,14,10
+#-------------------------------
+[013]
+# Game Corner
+MapPosition = 0,14,10
+#-------------------------------
+[014]
+# Cedolan Dept. 1F
+MapPosition = 0,13,10
+#-------------------------------
+[015]
+# Cedolan Dept. 2F
+MapPosition = 0,13,10
+#-------------------------------
+[016]
+# Cedolan Dept. 3F
+MapPosition = 0,13,10
+#-------------------------------
+[017]
+# Cedolan Dept. 4F
+MapPosition = 0,13,10
+#-------------------------------
+[018]
+# Cedolan Dept. 5F
+MapPosition = 0,13,10
+#-------------------------------
+[019]
+# Cedolan Dept. Rooftop
+MapPosition = 0,13,10
+#-------------------------------
+[020]
+# Cedolan Dept. Elevator
+MapPosition = 0,13,10
+#-------------------------------
+[021]
+# Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[022]
+# Takeshi Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,13
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[023]
+# Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]
+# Lerucean Town Poké Center
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]
+# Lerucean Town Mart
+MapPosition = 0,15,8
+#-------------------------------
+[026]
+# Pokémon Fan Club
+MapPosition = 0,15,8
+#-------------------------------
+[027]
+# Pokémon Day Care
+MapPosition = 0,15,8
+#-------------------------------
+[028]
+# Natural Park
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = field
+#-------------------------------
+[029]
+# Natural Park Entrance
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[030]
+# Natural Park Pavillion
+MapPosition = 0,16,8
+#-------------------------------
+[031]
+# Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[032]
+# \PN's Home
+ShowArea = true
+HealingSpot = 32,14,11
+MapPosition = 0,5,13
+#-------------------------------
+[033]
+# OurRoom
+MapPosition = 0,5,13
+#-------------------------------
+[034]
+# Ice Cave
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[035]
+# Ingido Plateau
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]
+# Pokémon League
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]
+# Pokémon League
+MapPosition = 0,13,6
+BattleBack = elite1
+#-------------------------------
+[038]
+# Hall of Fame
+MapPosition = 0,13,6
+#-------------------------------
+[039]
+# Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[040]
+# Route 4
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]
+# Route 5
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,7
+MapSize = 1,111
+#-------------------------------
+[042]
+# Mioko Home
+ShowArea = true
+MapPosition = 0,5,13
+#-------------------------------
+[043]
+# MiokoRoom
+MapPosition = 0,5,13
+#-------------------------------
+[044]
+# Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[045]
+# Route 6
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]
+# Cycling Road gate
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]
+# Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[048]
+# Professor Ray's Lab
+Outdoor = false
+ShowArea = true
+MapPosition = 0,5,13
+#-------------------------------
+[049]
+# Rock Cave
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[050]
+# Rock Cave
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = cave3
+Environment = Cave
+#-------------------------------
+[051]
+# Dungeon
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+BattleBack = cave2
+Environment = Cave
+#-------------------------------
+[052]
+# Battle Frontier
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]
+# Battle Frontier Poké Center
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]
+# Battle Frontier Mart
+MapPosition = 0,17,10
+#-------------------------------
+[055]
+# Battle Tower
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]
+# Battle Tower arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[057]
+# Stadium Cup lobby
+MapPosition = 0,17,10
+#-------------------------------
+[058]
+# Battle Palace
+MapPosition = 0,17,10
+#-------------------------------
+[059]
+# Battle Palace arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[060]
+# Battle Arena
+MapPosition = 0,17,10
+#-------------------------------
+[061]
+# Battle Arena arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[062]
+# Battle Factory
+MapPosition = 0,17,10
+#-------------------------------
+[063]
+# Battle Factory intro corridor
+MapPosition = 0,17,10
+#-------------------------------
+[064]
+# Battle Factory arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[065]
+# Battle Factory corridor
+MapPosition = 0,17,10
+#-------------------------------
+[066]
+# Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]
+# Safari Zone gate
+MapPosition = 0,12,12
+#-------------------------------
+[068]
+# Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]
+# Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]
+# Underwater
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]
+# Harbor
+MapPosition = 0,13,13
+#-------------------------------
+[072]
+# Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+#-------------------------------
+[073]
+# Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+#-------------------------------
+[074]
+# Cycling Road gate
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]
+# Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
+#-------------------------------
+[076]
+# Route 01
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,11
+Environment = ForestGrass
+#-------------------------------
+[077]
+# Kazemachi
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,10
+MapSize = 1,1
+#-------------------------------
+[079]
+# Kazemachi Poké Center
+HealingSpot = 79,7,2
+MapPosition = 0,5,10
+#-------------------------------
+[080]
+# Kazemachi Mart
+MapPosition = 0,5,10
+#-------------------------------
+[081]
+# Kurt's house
+MapPosition = 0,5,10
+#-------------------------------
+[083]
+# Route 02
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,9
+BattleBack = 
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Forest
+#-------------------------------
+[084]
+# Forest Entry
+Outdoor = false
+ShowArea = false
+Bicycle = true
+MapPosition = 0,5,9
+MapSize = 1,1
+#-------------------------------
+[085]
+# House
+MapPosition = 0,5,8
+MapSize = 1,1
+#-------------------------------
+[086]
+# Shortcut
+Bicycle = true
+MapPosition = 0,5,9
+MapSize = 1,1
+#-------------------------------
+[087]
+# Forest Exit
+Outdoor = false
+ShowArea = false
+Bicycle = true
+MapPosition = 0,5,7
+MapSize = 1,1
+#-------------------------------
+[088]
+# Kazemachi no Mori
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 88,17,6
+MapPosition = 0,5,8
+WildBattleBGM = Wild Pokémon Battle!.mp3
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Forest
+#-------------------------------
+[089]
+# Route 22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,3,10
+MapSize = 2,11
+#-------------------------------
+[090]
+# Katsuyama
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,6
+MapSize = 1,1
+Environment = Rock
+#-------------------------------
+[091]
+# Katsuyama Poké Center
+HealingSpot = 91,7,2
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[092]
+# Katsuyama Mart
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[093]
+# House 01
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[094]
+# House 02
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[095]
+# Katsuyama Police Station
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[096]
+# Katsuyama Museum F1
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[097]
+# Katsuyama Museum F2
+Outdoor = false
+MapPosition = 0,5,6
+MapSize = 1,1
+#-------------------------------
+[098]
+# Katsuyama Gym
+Outdoor = false
+ShowArea = true
+MapPosition = 0,5,6
+MapSize = 1,1
+Environment = Rock
+#-------------------------------
+[099]
+# Route 03
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,6,6
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle victory.ogg
+MapSize = 4,1111
+#-------------------------------
+[100]
+# Route 04
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,5
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 5,11111
+#-------------------------------
+[101]
+# Route 04 Poké Center
+HealingSpot = 101,7,2
+MapPosition = 0,9,5
+MapSize = 1,1
+#-------------------------------
+[102]
+# MT.Moon F1
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,5
+BattleBack = 
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 3,111
+Environment = Cave
+#-------------------------------
+[103]
+# MT.Moon UG1
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,5
+WildBattleBGM = Battle wild.mid
+WildVictoryME = Battle victory wild.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 3,111
+Environment = Cave
+#-------------------------------
+[104]
+# MT.Moon UG2
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,5
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 3,111
+Environment = Cave
+#-------------------------------
+[105]
+# Mizu Yosie
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[106]
+# Mizu Yosie Gym
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,5
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[107]
+# Mizu Yosie Gym room
+Outdoor = false
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[108]
+# Mizu Yosie Poké Center
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[109]
+# Mizu Yosie Mart
+Outdoor = false
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[110]
+# Mizu Yosie Daycare House
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[111]
+# Mizu Yosie House 2
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[112]
+# House 3
+Outdoor = false
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[113]
+# House 4
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[114]
+# Broken house
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[115]
+# Bicycle Shop
+Outdoor = false
+MapPosition = 0,15,5
+MapSize = 1,1
+#-------------------------------
+[116]
+# Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,4
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = ForestGrass
+#-------------------------------
+[117]
+# Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,3
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 2,11
+Environment = ForestGrass
+#-------------------------------
+[118]
+# Bill house
+Outdoor = false
+Bicycle = false
+MapPosition = 0,17,3
+#-------------------------------
+[119]
+# Route 05
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,6
+WildBattleBGM = Battle wild.mid
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = ForestGrass
+#-------------------------------
+[120]
+# Route 05 Pass
+Bicycle = true
+MapPosition = 0,15,7
+MapSize = 1,1
+#-------------------------------
+[121]
+# Daycare
+ShowArea = true
+MapPosition = 0,15,7
+MapSize = 1,1
+#-------------------------------
+[122]
+# Under Ground Entrence to Route 06
+Bicycle = true
+MapPosition = 0,15,7
+MapSize = 1,1
+#-------------------------------
+[123]
+# UG Path
+Bicycle = true
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+#-------------------------------
+[124]
+# Route 06
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,9
+WildBattleBGM = Wild Pokémon Battle!.mp3
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = ForestGrass
+#-------------------------------
+[125]
+# Route 06 Pass
+Bicycle = true
+MapPosition = 0,15,9
+MapSize = 1,1
+#-------------------------------
+[126]
+# UG to 5
+Bicycle = true
+MapPosition = 0,15,9
+MapSize = 1,1
+#-------------------------------
+[127]
+# Nichibotsu no Minato
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[128]
+# Pokemon Fan Club
+ShowArea = true
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[129]
+# Fisherman House
+Outdoor = false
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[130]
+# Nichibotsu no Minato House 
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[131]
+# House 1
+Outdoor = false
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[132]
+# Nichibotsu no Minato Gym 
+ShowArea = true
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[133]
+# Nichibotsu no Minato Pokecenter 
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[134]
+# Nichibotsu no Minato Mart
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[135]
+# S.S. Anne Dock
+Outdoor = true
+ShowArea = false
+Bicycle = true
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Battle victory trainer.ogg
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[136]
+# Main Entrence
+ShowArea = true
+MapPosition = 0,15,11
+MapSize = 1,1
+Environment = None
+#-------------------------------
+[137]
+# Dining Hall
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[138]
+# Green Room 1
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[139]
+# Green Room 2
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[140]
+# Green Room 3
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[141]
+# Green Room 4
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[142]
+# Green Room 5
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[143]
+# Green Room 6
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[144]
+# Green Room 7
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[145]
+# S.S. Anne 2F
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[146]
+# Orange Room 1
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[147]
+# Orange Room 2
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[148]
+# Orange Room 3
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[149]
+# Orange Room 4
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[150]
+# Orange Room 5
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[151]
+# Orange Room 6
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[152]
+# S.S. Anne 3F
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[153]
+# S.S. Hall
+MapPosition = 0,15,11
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[154]
+# S.S. Anne Captain Cabin
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[155]
+# S.S. Anne BF
+ShowArea = true
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[156]
+# Orange room 1
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[157]
+# Orange room 2
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[158]
+# Orange room 3
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[159]
+# Orange room 4
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[160]
+# Orange room 5
+MapPosition = 0,15,11
+TrainerBattleBGM = Trainer Battle!.mp3
+TrainerVictoryME = Trainer Defeated!.mp3
+MapSize = 1,1
+#-------------------------------
+[161]
+# Orange room 6
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[162]
+# Orange room 7
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[163]
+# Arisagawa Bathhouse
+ShowArea = true
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[164]
+# Bathsection
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[165]
+# Bathhouse FF
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[166]
+# Arisagawa House
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[167]
+# Nichibotsu Ferry
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,11
+MapSize = 1,1
+#-------------------------------
+[168]
+# Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+TrainerBattleBGM = Trainer Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 2,11
+Environment = Grass
+#-------------------------------
+[169]
+# Diglett Cave Nichibotsu side
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,11
+MapSize = 1,1
+#-------------------------------
+[170]
+# Diglett Cave
+Outdoor = false
+ShowArea = true
+Bicycle = true
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle capture success.ogg
+Environment = Cave
+#-------------------------------
+[171]
+# Diglett Cave Kazemachi side
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,7
+MapSize = 1,1
+#-------------------------------
+[172]
+# Route 11 Pass
+Bicycle = true
+MapPosition = 0,17,11
+MapSize = 1,1
+#-------------------------------
+[173]
+# Route 11 Pass FF
+MapPosition = 0,17,11
+MapSize = 1,1
+#-------------------------------
+[174]
+# Valor Island Entry
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,5,13
+MapSize = 1,1
+#-------------------------------
+[175]
+# Valor HQ
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 1,5,12
+MapSize = 1,1
+#-------------------------------
+[176]
+# Valor Harbor
+ShowArea = true
+Bicycle = true
+MapPosition = 1,5,13
+MapSize = 1,1
+#-------------------------------
+[177]
+# Valor Park Z1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,5,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,11
+Environment = ForestGrass
+#-------------------------------
+[178]
+# Valor Park Z2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 1,6,11
+BattleBack = 
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = ForestGrass
+#-------------------------------
+[179]
+# Valor Cave Entrence
+Outdoor = false
+ShowArea = true
+Bicycle = true
+Weather = Sun,100
+MapPosition = 1,5,9
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Cave
+#-------------------------------
+[180]
+# Valor Cave Z2
+Outdoor = false
+ShowArea = true
+Bicycle = true
+Weather = Sun,100
+MapPosition = 1,6,9
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Cave
+#-------------------------------
+[181]
+# Valor Cave Z3
+Outdoor = false
+ShowArea = true
+Bicycle = true
+Weather = Sun,100
+MapPosition = 1,5,9
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Cave
+#-------------------------------
+[182]
+# Mystic Island Entry
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,100
+MapPosition = 1,13,13
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,11
+Environment = MovingWater
+#-------------------------------
+[183]
+# Mystic Harbor
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,13
+MapSize = 1,1
+#-------------------------------
+[184]
+# Mystic Pokemon Park Z1
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+MapPosition = 1,13,12
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,11
+Environment = Snow
+#-------------------------------
+[185]
+# Mystic HQ Area
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,12
+MapSize = 1,1
+Environment = Cave
+#-------------------------------
+[186]
+# Mystic HQ
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,12
+MapSize = 1,1
+#-------------------------------
+[187]
+# Mystic Game Zone
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,12
+MapSize = 1,1
+#-------------------------------
+[188]
+# Mystic Park Pass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,12
+MapSize = 1,1
+#-------------------------------
+[189]
+# Mystic Elevator
+Outdoor = false
+ShowArea = true
+MapPosition = 1,13,12
+MapSize = 1,1
+#-------------------------------
+[190]
+# Mystic Hill Pass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,12
+MapSize = 1,1
+#-------------------------------
+[191]
+# Mystic Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+MapPosition = 1,14,13
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Battle victory wild.ogg
+WildCaptureME = Wild Pokémon Defeated!.mp3
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[192]
+# Mystic Pokemon Park Z2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 1,13,10
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Snow
+#-------------------------------
+[193]
+# Mystic Empty House 
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,10
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+#-------------------------------
+[194]
+# Mystic Empty House FF
+Outdoor = false
+ShowArea = false
+Bicycle = true
+MapPosition = 1,13,10
+MapSize = 1,1
+#-------------------------------
+[195]
+# Mystic Pokemon Park Z3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 1,13,9
+BattleBack = snow_bg
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Snow
+#-------------------------------
+[196]
+# Instinct Island Entry
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,13
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,11
+Environment = MovingWater
+#-------------------------------
+[197]
+# Instinct Harbor
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,13
+MapSize = 1,1
+#-------------------------------
+[198]
+# Instinct HQ
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 1,25,12
+MapSize = 1,1
+#-------------------------------
+[199]
+# Instinct Island Park Z1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,11
+Environment = Grass
+#-------------------------------
+[200]
+# Instinct Island Park Z2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,24,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = ForestGrass
+#-------------------------------
+[201]
+# Instinct Island Park Z3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,26,11
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = ForestGrass
+#-------------------------------
+[202]
+# Instinct Island Park Z4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,9
+SnapEdges = false
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[203]
+# Instinct Island Park Z5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,8
+SnapEdges = false
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[204]
+# Instinct Island Park Z6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,7
+SnapEdges = false
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[205]
+# Instinct Island Park Z7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,25,6
+SnapEdges = false
+WildBattleBGM = Wild Pokémon Battle!.mp3
+WildVictoryME = Wild Pokémon Defeated!.mp3
+WildCaptureME = Battle capture success.ogg
+MapSize = 1,1
+Environment = Grass

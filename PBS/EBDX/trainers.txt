@@ -1,0 +1,59 @@
+#-------------------------------
+[RIVAL1]
+BattleBGM        = Battle Elite.mid
+#-------------------------------
+[RIVAL1,Blue]
+BattleVS         = forestSM
+#-------------------------------
+[RIVAL1,Blue,1]
+BattleVS         = flamesSM
+#-------------------------------
+[RIVAL1,Blue,2]
+BattleVS         = wavesSM
+#-------------------------------
+[LEADER_Brock]
+TrainerPositionX = -8
+BattleVS         = integratedVS
+BattleScript     = BROCK
+#-------------------------------
+[LEADER_Kaguya]
+TrainerPositionX = -8
+BattleVS         = integratedVS
+BattleScript     = KAGUYA
+#-------------------------------
+[TEAMROCKET_M]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMROCKET_F]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[JJM]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMNOISE_M]
+BattleIntro      = teamNoise
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMNOISE_M]
+BattleIntro      = teamNoise
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMROCKET_Cliff]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMROCKET_Arlo]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMNOISE_Buzz]
+BattleIntro      = teamNoise
+BattleVS         = trainerSM
+#-------------------------------
+[LEADER_Tsukasa]
+TrainerPositionX = -8
+BattleVS         = integratedVS
+BattleScript     = TSUKASA

@@ -1,0 +1,473 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[022] # Takeshi Village
+Land,21
+    25,BUNEARY,2,15
+    25,MAKUHITA,2,15
+    25,SKITTY,2,15
+    20,MUNCHLAX,5,18
+    2,HOOH,50,70
+    2,MEWTWO,50,70
+    1,MEW,60,80
+OldRod
+    50,FEEBAS,10,20
+    50,MAGIKARP,10,20
+#-------------------------------
+[076] # Route 01
+Land,21
+    40,PIDGEY,5,15
+    40,RATTATA,5,15
+    9,FURFROU,5,20
+    9,RALTS,5,20
+    1,BUNNELBY,5,20
+    1,PIKIPEK,5,20
+LandNight,21
+    39,RATTATA,10,15
+    30,HOOTHOOT,10,15
+    20,SPINARAK,8,20
+    9,LITWICK,10,20
+    1,INKAY,15,20
+    1,NICKIT,15,20
+#-------------------------------
+[076,1] # Route 01
+Land,21
+    40,PIDGEY,15,18
+    40,RATTATA,14,18
+    10,SENTRET,13,20
+    5,PIKIPEK,13,24
+    5,RALTS,14,25
+LandNight,21
+    40,RATTATA,14,18
+    30,HOOTHOOT,14,17
+    20,SPINARAK,20,30
+    10,CLEFAIRY,20,30
+#-------------------------------
+[077] # Kazemachi
+OldRod
+    50,FEEBAS,10,20
+    50,MAGIKARP,10,20
+#-------------------------------
+[083] # Route 02
+Land,21
+    40,CATERPIE,5,15
+    40,WEEDLE,5,15
+    9,BLIPBUG,5,20
+    9,WURMPLE,5,20
+    1,ORBEETLE,5,20
+    1,VIVILLON,5,20
+#-------------------------------
+[088] # Kazemachi no Mori
+Land,21
+    40,BEEDRILL,5,15
+    40,BUTTERFREE,5,15
+    9,BEAUTIFLY,5,20
+    9,DUSTOX,5,20
+    1,ORBEETLE,5,20
+    1,VIVILLON,5,20
+#-------------------------------
+[099] # Route 03
+Land,21
+    40,MANKEY,5,20
+    40,SPEAROW,5,20
+    9,NIDORANfE,5,23
+    9,NIDORANmA,5,23
+    1,GEODUDE,5,25
+    1,RHYHORN,5,25
+LandNight,21
+    40,CLEFAIRY,5,20
+    40,JIGGLYPUFF,5,20
+    9,MAWILE,5,25
+    9,MIMIKYU,5,25
+    1,SWIRLIX,5,25
+    1,TOGEPI,5,25
+#-------------------------------
+[100] # Route 04
+Land,21
+    40,SANDSHREW,8,20
+    40,SEVIPER,8,20
+    9,CARNIVINE,8,23
+    9,WEEPINBELL,8,23
+    1,EKANS,10,25
+    1,KOFFING,10,25
+LandNight,21
+    40,MINUN,8,20
+    40,PLUSLE,8,20
+    9,SCYTHER,8,23
+    9,VENONAT,8,23
+    1,DEINO,10,25
+    1,ROOKIDEE,10,25
+#-------------------------------
+[102] # MT.Moon F1
+Cave,5
+    40,PARAS,5,15
+    40,ZUBAT,5,15
+    9,ROLYCOLY,5,20
+    9,WOOBAT,5,20
+    1,MUDBRAY,10,25
+    1,OBSTAGOON,10,25
+#-------------------------------
+[103] # MT.Moon UG1
+Cave,5
+    40,PARAS,8,20
+    40,ZUBAT,8,20
+    9,DIGLETT,8,23
+    9,WOOBAT,8,23
+    1,ROCKRUFF,10,25
+    1,SCRAGGY,10,25
+#-------------------------------
+[104] # MT.Moon UG2
+Cave,5
+    40,PARAS,8,20
+    40,ZUBAT,8,20
+    9,DWEBBLE,8,23
+    9,WOOBAT,8,23
+    1,ROGGENROLA,10,25
+    1,SANDILE,10,25
+#-------------------------------
+[116] # Route 24
+Land,21
+    40,DROWZEE,10,25
+    40,ODDISH,10,25
+    9,ABRA,12,28
+    9,NATU,12,28
+    1,BELDUM,12,30
+    1,BRONZOR,12,30
+LandNight,21
+    40,ABRA,10,25
+    40,DROWZEE,10,25
+    9,CACNEA,12,28
+    9,SEEDOT,12,28
+    1,DEDENNE,12,30
+    1,NINCADA,12,30
+OldRod
+    50,FEEBAS,10,20
+    50,MAGIKARP,10,20
+#-------------------------------
+[117] # Route 25
+Land,21
+    40,DROWZEE,10,25
+    40,ODDISH,10,25
+    9,ABRA,12,28
+    9,NATU,12,28
+    1,BELDUM,12,30
+    1,BRONZOR,12,30
+LandNight,21
+    40,ABRA,10,25
+    40,DROWZEE,10,25
+    9,CACNEA,12,28
+    9,SEEDOT,12,28
+    1,DEDENNE,12,30
+    1,NINCADA,12,30
+OldRod
+    50,FEEBAS,10,20
+    50,MAGIKARP,10,20
+#-------------------------------
+[119] # Route 05
+Land,21
+    40,MEOWTH,10,25
+    40,ODDISH,10,25
+    9,ABRA,12,28
+    9,NATU,12,28
+    1,BELDUM,12,30
+    1,BRONZOR,12,30
+LandNight,21
+    40,ABRA,10,25
+    40,MEOWTH,10,25
+    9,CACNEA,12,28
+    9,SEEDOT,12,28
+    1,DEDENNE,12,30
+    1,NINCADA,12,30
+#-------------------------------
+[124] # Route 06
+Land,21
+    40,HERACROSS,10,25
+    40,MEOWTH,10,25
+    9,NATU,12,28
+    9,PINSIR,12,28
+    1,BELDUM,12,30
+    1,BRONZOR,12,30
+LandNight,21
+    40,MEOWTH,10,25
+    40,PINSIR,10,25
+    9,CACNEA,12,28
+    9,HERACROSS,12,28
+    1,DEDENNE,12,30
+    1,NINCADA,12,30
+OldRod
+    50,FEEBAS,10,20
+    50,MAGIKARP,10,20
+#-------------------------------
+[127] # Nichibotsu no Minato
+OldRod
+    40,FEEBAS,10,20
+    40,MAGIKARP,10,20
+    10,TENTACOOL,20,29
+#-------------------------------
+[168] # Route 11
+Land,21
+    40,PELIPPER,25,35
+    40,SLOWPOKE,20,35
+    5,FALINKS,25,35
+    5,ZANGOOSE,25,35
+LandNight,21
+    40,MISDREAVUS,23,37
+    40,MURKROW,23,37
+    5,HATENNA,25,32
+    5,SPRITZEE,28,40
+OldRod
+    40,FEEBAS,10,20
+    40,MAGIKARP,10,20
+    10,TENTACOOL,20,29
+#-------------------------------
+[170] # Diglett Cave
+Cave,5
+    50,DIGLETT,1,25
+    45,DUGTRIO,26,35
+    5,DRILBUR,25,30
+#-------------------------------
+[177] # Valor Park Z1
+Land,21
+    20,FLAREON,25,40
+    20,GROWLITHE,25,40
+    20,MAGBY,25,30
+    20,PONYTA,25,40
+    20,VULPIX,25,40
+#-------------------------------
+[178] # Valor Park Z2
+Land,21
+    20,DARUMAKA,25,35
+    20,HOUNDOUR,20,23
+    20,LITLEO,25,35
+    20,PANSEAR,25,40
+    20,SLUGMA,25,38
+#-------------------------------
+[179] # Valor Cave Entrence
+Cave,5
+    20,CASTFORM,25,40
+    20,HEATMOR,25,35
+    20,NUMEL,25,32
+    20,SIZZLIPEDE,23,47
+    20,TORKOAL,25,40
+#-------------------------------
+[180] # Valor Cave Z2
+Cave,5
+    20,HIPPOPOTAS,25,34
+    20,LARVESTA,25,40
+    20,ORICORIO,25,40
+    20,PHANPY,20,24
+    20,SILICOBRA,20,35
+#-------------------------------
+[181] # Valor Cave Z3
+Cave,5
+    20,BLACEPHALON,25,40
+    20,LITWICK,25,40
+    20,ROLYCOLY,10,17
+    20,SALANDIT,25,32
+    20,TURTONATOR,20,40
+#-------------------------------
+[182] # Mystic Island Entry
+Land,21
+    20,KRABBY,25,27
+	20,SLOWPOKE,20,36
+    20,PSYDUCK,25,32
+    20,CASTFORM,25,40
+    20,VAPOREON,25,40
+LandNight,21	
+	20,CLAUNCHER,26,36
+	20,SPHEAL,26,31
+	20,BINACLE,26,38
+	20,CRAMORANT,20,40
+	20,SNORUNT,20,40
+Water,2
+    20,SHELLDER,25,35
+    20,HORSEA,25,31
+    20,TENTACOOL,20,29
+    20,STARYU,25,35
+    20,SEEL,25,33
+OldRod
+    20,GOLDEEN,25,31
+	20,MAGIKARP,10,20
+	20,FEEBAS,10,20
+	20,REMORAID,20,24
+	20,PYUKUMUKU,20,40
+GoodRod
+    20,LUVDISC,30,40
+	20,FINNEON,20,30
+	20,ALOMOMOLA,20,40
+	20,CHINCHOU,20,26
+	20,BARBOACH,20,29
+SuperRod
+    30,WAILMER,30,39
+	30,WISHIWASHI,10,19
+	20,MANTYKE,20,40
+#-------------------------------
+[191] # Mystic Beach
+Land,21
+    20,CORPHISH,25,29
+    20,BUIZEL,20,25
+	20,PANPOUR,20,40
+	20,DUCKLETT,20,34
+	20,CHEWTLE,15,21
+LandNight,21
+    20,WOOPER,15,21
+	20,LOTAD,10,14
+	20,BIDOOF,10,14
+	20,DEWPIDER,15,21
+	20,SURSKIT,15,21
+Water,2
+    20,CLAMPERL,30,40
+	20,TYMPOLE,20,24	
+	20,POLIWAG,20,23
+	20,WINGULL,20,24
+	20,AZURILL,10,15
+WaterNight,2
+	25,SHELLDER,25,35
+	25,CORSOLA,30,40
+	20,SKRELP,30,40
+	20,FRILLISH,30,39	
+	5,LAPRAS,30,40
+	5,TAPUFINI,30,40
+OldRod
+    25,ARROKUDA,20,25
+	25,QWILFISH,20,40
+	25,CARVANHA,20,29
+	25,RELICANTH,20,40
+GoodRod
+    30,BRUXISH,20,40
+	30,MAREANIE,20,37
+	20,WIMPOD,20,29
+SuperRod
+    30,WAILMER,30,39
+	30,WISHIWASHI,10,19
+	20,MANTYKE,20,40
+#-------------------------------
+[184] # Mystic Pokemon Park	Z1
+Land,21
+    20,CASTFORM,25,40
+    20,GLACEON,25,40
+	20,VANILLITE,24,34
+	20,CUBCHOO,26,36
+	20,CRYOGONAL,25,40
+#-------------------------------
+[192] # Mystic Pokemon Park	Z2
+Land,21
+    20,BERGMITE,26,36
+    20,EISCUE,25,40
+	20,SMOOCHUM,24,29
+	20,SWINUB,22,32
+	20,DELIBIRD,25,40	
+#-------------------------------
+[195] # Mystic Pokemon Park	Z3
+Land,21
+    20,SNOM,25,40
+    20,SNEASEL,25,40
+	20,SNOVER,29,39
+	20,CRABRAWLER,22,32
+	20,CRABOMINABLE,25,40	
+#-------------------------------
+[196] # Instinct Island Entry
+Water,2
+    20,CHINCHOU,20,26
+	20,CRAMORANT,20,40	
+	20,DUCKLETT,20,34
+	20,WINGULL,20,24
+	10,GYARADOS,20,40
+	10,MANTINE,20,40
+#-------------------------------
+[199] # Instinct Island Park Z1
+Land,21
+    20,VOLTORB,25,29
+	20,ELEKID,25,29
+	20,MAREEP,10,14
+	20,JOLTEON,25,40
+	10,PICHU,10,20
+	10,PIKACHU,20,40	
+LandNight,21
+    20,ELECTRIKE,15,25
+	20,SHINX,10,14
+	20,BLITZLE,20,26
+	20,TYNAMO,20,39
+	10,PLUSLE,20,40
+	10,MINUN,20,40	
+#-------------------------------
+[200] # Instinct Island Park Z2
+Land,21
+    20,YAMPER,20,24
+	20,PINCURCHIN,20,40
+	20,MAGNEMITE,20,29
+	20,HELIOPTILE,25,40	
+	10,EMOLGA,25,40
+	10,PACHIRISU,25,40
+LandNight,21
+    20,DEDENNE,25,40
+	20,ORICORIO,25,40
+	20,TOGEDEMARU,25,40
+	20,TAPUKOKO,25,40
+	20,TOXEL,20,29
+#-------------------------------
+[201] # Instinct Island Park Z3
+Land,21
+    20,MORPEKO,20,40
+	20,JOLTIK,20,35
+	20,STUNFISK,20,40
+	20,CHARJABUG,25,40
+	20,VIKAVOLT,25,40	
+LandNight,21
+    20,RAICHU,25,40
+	20,ELECTIVIRE,25,40
+	20,LUXRAY,25,40
+	20,MANECTRIC,25,40
+	20,AMPHAROS,25,49	
+#-------------------------------
+[202] # Instinct Island Park Z4
+Land,21
+    20,ROOKIDEE,10,17
+	20,ZUBAT,10,21
+	20,BUTTERFREE,20,40
+	20,PIDGEY,10,17
+	20,SPEAROW,10,19	
+LandNight,21
+    20,NOIBAT,20,40
+	20,FARFETCHD,25,40
+	20,DODUO,25,29
+	20,SCYTHER,25,40
+	20,HOOTHOOT,10,19	
+#-------------------------------
+[203] # Instinct Island Park Z5
+Land,21
+    20,LEDYBA,10,17
+	20,NATU,10,24
+	20,HOPPIP,10,17
+	20,YANMA,20,40
+	20,BEAUTIFLY,20,40	
+LandNight,21
+    20,TOGETIC,20,40
+	20,MURKROW,25,40
+	20,TAILLOW,15,22
+	20,GLIGAR,25,40
+	20,NINJASK,10,19	
+#-------------------------------
+[204] # Instinct Island Park Z6
+Land,21
+    20,PIKIPEK,10,13
+	20,PIDOVE,10,20
+	20,FLETCHLING,10,16
+	20,VIVILLON,20,40
+	20,MINIOR,20,40	
+LandNight,21
+    20,RUFFLET,20,40
+	20,HAWLUCHA,25,40
+	20,SIGILYPH,20,40
+	20,VULLABY,25,40
+	20,WOOBAT,20,40		
+#-------------------------------
+[205] # Instinct Island Park Z7
+Land,21
+    20,MASQUERAIN,10,21
+	20,SWABLU,20,34
+	20,STARLY,10,13
+	20,DRIFLOON,20,27
+	20,CHATOT,20,40	
+LandNight,21
+    50,COMBEE,20,40
+	50,TROPIUS,20,40		

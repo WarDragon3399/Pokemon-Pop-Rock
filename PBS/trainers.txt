@@ -1,0 +1,760 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = "A very good battle, indeed!"
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "Very good."
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = "A very good battle, indeed!"
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = "You beat me again!"
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = "Defeated! Oh my!"
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = "Defeated! Oh my!"
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = "You're too good for me!"
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = "Washed out!"
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = "My Skitty!"
+Pokemon = SKITTY,18
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = "Our teamwork failed!"
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_Brendan,Brendan]
+LoseText = "..."
+Pokemon = MARSHTOMP,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = "Washed out!"
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = "A good battle indeed!"
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[Pop_n_Rock_lover,Drago,1]
+LoseText = "A good battle indeed!"
+Pokemon = MILOTIC,25
+    Gender = female
+    Shiny = yes
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,25
+    Gender = female
+    Shiny = yes
+    Item = SITRUSBERRY
+Pokemon = DRAGONITE,25
+    Gender = female
+    Shiny = yes
+    Item = SITRUSBERRY
+#-------------------------------
+[Poplover_F,Haru]
+LoseText = "You win thanks for battle,But POP music is best."
+Pokemon = PIKACHU,8
+    Gender = female
+Pokemon = TOGEKISS,8
+    Gender = female
+#-------------------------------
+[Poplover_M,Deku]
+LoseText = "You win thanks for battle,But POP music is best."
+Pokemon = PIKACHU,14
+    Gender = female
+Pokemon = TOGEKISS,14
+    Gender = female
+#-------------------------------
+[Rocklover_F,Latty]
+LoseText = "You win thanks for battle,But ROCK music is best."
+Pokemon = PIKACHU,20
+    Gender = female
+Pokemon = CROAGUNK,20
+    Gender = female
+#-------------------------------
+[Rocklover_M,Kohe]
+LoseText = "You win thanks for battleBut ROCK music is best."
+Pokemon = PIKACHU,8
+    Gender = male
+Pokemon = CROAGUNK,8
+    Gender = male
+#-------------------------------
+[PoploverCouple,Flora & Bil]
+LoseText = "You win thanks for battle,But never forget POP music is best."
+Pokemon = PIKACHU,15
+    Gender = female
+Pokemon = PIKACHU,15
+    Gender = male
+Pokemon = TOGEKISS,15
+    Gender = female
+Pokemon = TOGEKISS,15
+    Gender = male
+#-------------------------------
+[RockloverCouple,Kelly & Alex]
+LoseText = "You win thanks for battle,But never forget ROCK music is best."
+Pokemon = PIKACHU,15
+    Gender = female
+Pokemon = PIKACHU,15
+    Gender = male
+Pokemon = CROAGUNK,15
+    Gender = female
+Pokemon = CROAGUNK,15
+    Gender = male
+#-------------------------------
+[BESTFRIEND,Mioko]
+LoseText = "aahh.....You win...."
+Pokemon = EEVEE,5
+    Gender = female
+#-------------------------------
+[Pop_n_Rock_lover,Drago]
+LoseText = "You kids are really good it's my honer to battle with you"
+Pokemon = PIKACHU,10
+    Form = 8
+    Gender = female
+Pokemon = PIKACHU,10
+    Form = 7
+    Gender = female
+#-------------------------------
+[JJM,Jessie & James]
+LoseText = "How can we defeted by just a noobe"
+Pokemon = EKANS,8
+Pokemon = KOFFING,8
+#-------------------------------
+[BUGCATCHER,Rick]
+LoseText = "Hah..., I lost!!"
+Pokemon = WEEDLE,8
+Pokemon = CATERPIE,8
+#-------------------------------
+[BUGCATCHER,Doug]
+LoseText = "Hah..., I lost!!"
+Pokemon = METAPOD,8
+Pokemon = KAKUNA,8
+#-------------------------------
+[BUGCATCHER,Sam]
+LoseText = "Hah..., I lost!!"
+Pokemon = WURMPLE,8
+Pokemon = BLIPBUG,8
+#-------------------------------
+[BUGCATCHER,Charlie]
+LoseText = "Hah..., I lost!!"
+Pokemon = SPEWPA,9
+Pokemon = VIVILLON,12
+    Form = 7
+#-------------------------------
+[BUGCATCHER,Anthony]
+LoseText = "Hah..., I lost!!"
+Pokemon = PINECO,10
+#-------------------------------
+[LASS,JANICE]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PLUSLE,12
+Pokemon = MINUN,12
+#-------------------------------
+[BUGCATCHER,COLTON]
+LoseText = "Hah..., I lost!!"
+Pokemon = VENONAT,10
+Pokemon = SCYTHER,10
+#-------------------------------
+[YOUNGSTER,BEN]
+LoseText = "Aww, I lost."
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[BUGCATCHER,GREG]
+LoseText = "Hah..., I lost!!"
+Pokemon = VENONAT,10
+Pokemon = CATERPIE,10
+#-------------------------------
+[LASS,SALLY]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = TREECKO,12
+Pokemon = DIGLETT,12
+#-------------------------------
+[YOUNGSTER,CALVIN]
+LoseText = "Aww, I lost."
+Pokemon = PIDGEY,11
+Pokemon = SKITTY,11
+#-------------------------------
+[BUGCATCHER,JAMES]
+LoseText = "Hah..., I lost!!"
+Pokemon = WEEDLE,10
+Pokemon = WEEDLE,10
+Pokemon = WEEDLE,10
+#-------------------------------
+[LASS,ROBIN]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PIKACHU,12
+Pokemon = EEVEE,12
+#-------------------------------
+[LASS,IRIS]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = NIDORANfE,12
+Pokemon = CLEFAIRY,12
+#-------------------------------
+[BUGCATCHER,KENT]
+LoseText = "Hah..., I lost!!"
+Pokemon = VIVILLON,11
+    Form = 9
+Pokemon = SPINARAK,11
+#-------------------------------
+[BUGCATCHER,ROBBY]
+LoseText = "Hah..., I lost!!"
+Pokemon = KAKUNA,12
+Pokemon = SPINARAK,11
+#-------------------------------
+[SUPERNERD,JOVAN]
+LoseText = "Hah..., I lost!!"
+Pokemon = NIDORANmA,14
+Pokemon = RHYHORN,14
+#-------------------------------
+[LASS,MIRIAM]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = JIGGLYPUFF,12
+Pokemon = MIMIKYU,12
+#-------------------------------
+[YOUNGSTER,JOSH]
+LoseText = "Aww, I lost."
+Pokemon = MAWILE,14
+#-------------------------------
+[HIKER,MARCOS]
+LoseText = "You're too good for me!"
+Pokemon = MANKEY,15
+#-------------------------------
+[TEAMROCKET_M,Grunt1,1]
+LoseText = "You're too good for me!"
+Pokemon = WEEPINBELL,15
+#-------------------------------
+[TEAMROCKET_M,Grunt2,1]
+LoseText = "You're too good for me!"
+Pokemon = SEVIPER,15
+#-------------------------------
+[TEAMROCKET_F,Grunt3,1]
+LoseText = "You're too good for me!"
+Pokemon = DUSTOX,15
+#-------------------------------
+[TEAMROCKET_M,Grunt4,1]
+LoseText = "You're too good for me!"
+Pokemon = CARNIVINE,15
+#-------------------------------
+[SUPERNERD,MIGUEL]
+LoseText = "Hah..., I lost!!"
+Pokemon = NIDORANmA,14
+Pokemon = RHYHORN,14
+#-------------------------------
+[TEAMNOISE_M,Grunt]
+LoseText = "You'll will be pay for middel Team Noise."
+Pokemon = DEINO,15
+#-------------------------------
+[TEAMNOISE_F,Grunt]
+LoseText = "You'll will be pay for middel Team Noise."
+Pokemon = ROOKIDEE,15
+#-------------------------------
+[LASS,CRISSY]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = ROGGENROLA,12
+Pokemon = SANDSHREW,12
+#-------------------------------
+[PICNICKER,DIANA]
+LoseText = "Defeated! Oh my!"
+Pokemon = TAPUFINI,18
+Pokemon = AZUMARILL,18
+#-------------------------------
+[SWIMMER_M,LUIS]
+LoseText = "Washed out!"
+Pokemon = MAWILE,18
+Pokemon = AZUMARILL,18 
+#-------------------------------
+[LEADER_Kaguya,Kaguya]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "That was Grate battle."
+Pokemon = STARYU,20
+    Moves = HYDROPUMP,RECOVER,SURF,WATERGUN
+    AbilityIndex = 0
+    IV = 25,25,25,25,25,25
+	Ball = FRIENDBALL
+Pokemon = SYLVEON,20
+    Gender = female
+    Moves = CHARM,DRAININGKISS,LASTRESORT,MOONBLAST
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 25,25,25,25,25,25
+    Ball = FRIENDBALL
+Pokemon = VAPOREON,20
+    Gender = male
+    Moves = CHARM,WATERGUN,LASTRESORT,HYDROPUMP
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 25,25,25,25,25,25
+    Ball = FRIENDBALL	
+#-------------------------------	
+[TEAMROCKET_Cliff,Cliff]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "No......, How can I lost?!"
+Pokemon = SHIFTRY,23
+	Moves = RAZORLEAF,MEGADRAIN,LEAFBLADE,NATUREPOWER
+    AbilityIndex = 0
+    IV = 25,25,25,25,25,25
+Pokemon = POLIWRATH,23
+	Moves = HYDROPUMP,RAINDANCE,HYPNOSIS,BODYSLAM
+    AbilityIndex = 0
+    IV = 25,25,25,25,25,25
+Pokemon = TYRANITAR,23
+	Moves = FIREFANG,BITE,EARTHQUAKE,HYPERBEAM
+    AbilityIndex = 0
+    IV = 25,25,25,25,25,25	
+#-------------------------------
+[BUGCATCHER,CALE]
+LoseText = "Hah..., I lost!!"
+Pokemon = NINJASK,20
+Pokemon = SHEDINJA,20
+#-------------------------------
+[LASS,ELLY]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = DEDENNE,20
+Pokemon = ABRA,20
+#-------------------------------
+[YOUNGSTER,TIMMY]
+LoseText = "Aww, I lost."
+Pokemon = BELDUM,20
+Pokemon = BRONZOR,20
+#-------------------------------
+[LASS,RELI]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = NATU,20
+Pokemon = ODDISH,20
+#-------------------------------
+[CAMPER,ETHAN]
+LoseText = "A very good battle, indeed!"
+Pokemon = DROWZEE,20
+Pokemon = SEEDOT,20
+#-------------------------------
+[CAMPER,SHANE]
+LoseText = "A very good battle, indeed!"
+Pokemon = SEEDOT,20
+#-------------------------------
+[TEAMNOISE_M,Grunt,1]
+LoseText = "You'll will be pay for middel Team Noise."
+Pokemon = DEINO,20
+Pokemon = DROWZEE,20  
+#-------------------------------
+[HIKER,FRANKLIN]
+LoseText = "You're too good for me!"
+Pokemon = MANKEY,20
+#-------------------------------
+[HIKER,WAYNE]
+LoseText = "You're too good for me!"
+Pokemon = GEODUDE,20
+#-------------------------------
+[YOUNGSTER,JOYE]
+LoseText = "Aww, I lost."
+Pokemon = DEDENNE,20
+#-------------------------------
+[YOUNGSTER,DAN]
+LoseText = "Aww, I lost."
+Pokemon = ABRA,20 
+#-------------------------------
+[PICNICKER,KELSEY]
+LoseText = "Defeated! Oh my!"
+Pokemon = ODDISH,20
+#-------------------------------
+[HIKER,NOB]
+LoseText = "Defeated! Oh my!"
+Pokemon = BELDUM,20
+#-------------------------------
+[CAMPER,FLINT]
+LoseText = "A very good battle, indeed!"
+Pokemon = NINJASK,20
+#-------------------------------
+[YOUNGSTER,CHAD]
+LoseText = "Aww, I lost."
+Pokemon = CACNEA,20
+#-------------------------------
+[LASS,HALEY]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = JIGGLYPUFF,20
+#-------------------------------
+[BUGCATCHER,KEIGO]
+LoseText = "Hah..., I lost!!"
+Pokemon = HERACROSS,20
+Pokemon = PINSIR,20
+#-------------------------------
+[CAMPER,RICKY]
+LoseText = "A very good battle, indeed!"
+Pokemon = MEOWTH,20
+#-------------------------------
+[PICNICKER,NANCY]
+LoseText = "Defeated! Oh my!"
+Pokemon = MEOWTH,20
+#-------------------------------
+[BUGCATCHER,EARL]
+LoseText = "Hah..., I lost!!"
+Pokemon = SCYTHER,20
+Pokemon = BEEDRILL,20
+#-------------------------------
+[CAMPER,JEFF]
+LoseText = "A very good battle, indeed!"
+Pokemon = ABRA,20
+#-------------------------------
+[PICNICKER,ISABELLE]
+LoseText = "Defeated! Oh my!"
+Pokemon = JIGGLYPUFF,20
+#-------------------------------
+[LASS,ANN]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = FEAROW,25
+Pokemon = NIDORINA,25
+#-------------------------------
+[YOUNGSTER,SHAW]
+LoseText = "Aww, I lost."
+Pokemon = NIDORINO,28
+#-------------------------------
+[GENTLEMAN,ARTHUR]
+LoseText = "Humph! You rude child! You have no sense of courtesy!"
+Pokemon = NIDORINA,25
+Pokemon = NIDORINO,25
+Pokemon = TOUCANNON,28
+#-------------------------------
+[GENTLEMAN,THOMAS]
+LoseText = "My, my friends..."
+Pokemon = THIEVUL,25
+Pokemon = FURFROU,25
+#-------------------------------
+[GENTLEMAN,BROOKS]
+LoseText = "My, my friends..."
+Pokemon = PIKACHU,28
+Pokemon =RAICHU,28
+#-------------------------------
+[FISHERMAN,DALE]
+LoseText = "I'm all out!"
+Pokemon = MAGIKARP,25
+Pokemon = TENTACOOL,25
+Pokemon = TENTACRUEL,30
+Pokemon = FEEBAS,25
+#-------------------------------
+[GENTLEMAN,LAMAR]
+LoseText = "My, my friends..."
+Pokemon = THIEVUL,28
+Pokemon = SANDSLASH,28
+#-------------------------------
+[LASS,Magg]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PLUSLE,25
+Pokemon = MINUN,25
+Pokemon = LOPUNNY,25
+#-------------------------------
+[FISHERMAN,BARNY]
+LoseText = "I'm all out!"
+Pokemon = MAGIKARP,25
+Pokemon = TENTACOOL,25
+Pokemon = TENTACRUEL,30
+Pokemon = FEEBAS,25
+#-------------------------------
+[SAILOR,PHILLIP]
+LoseText = "You're impressive!"
+Pokemon = PELIPPER,25
+Pokemon = TENTACRUEL,30
+Pokemon = MACHOP,25
+#-------------------------------
+[SAILOR,HUEY]
+LoseText = "You're impressive!"
+Pokemon = HORSEA,25
+Pokemon = TENTACOOL,25
+Pokemon = MACHOKE,30
+#-------------------------------
+[SAILOR,DYLAN]
+LoseText = "You're impressive!"
+Pokemon = PELIPPER,30
+Pokemon = MACHOKE,30
+#-------------------------------
+[SAILOR,DUNCAN]
+LoseText = "You're impressive!"
+Pokemon = HORSEA,30
+Pokemon = STARMIE,30
+#-------------------------------
+[SAILOR,LEONARD]
+LoseText = "You're impressive!"
+Pokemon = MACHOKE,30
+Pokemon = TENTACRUEL,30
+#-------------------------------
+[SAILOR,EDMOND]
+LoseText = "You're impressive!"
+Pokemon = PELIPPER,30
+Pokemon = HORSEA,30
+#-------------------------------
+[SAILOR,TREVOR]
+LoseText = "You're impressive!"
+Pokemon = PELIPPER,30
+Pokemon = TENTACRUEL,30
+Pokemon = MACHOKE,30
+Pokemon = STARMIE,30
+#-------------------------------
+[BESTFRIEND,Mioko,1]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "You win again....."
+Pokemon = ESPEON,35
+    Gender = female
+	Moves = CONFUSION,PSYCHIC,PSYCHUP,PSYBEAM
+Pokemon = PIKACHU,30
+	Gender = female
+	Form = 8
+Pokemon = KARTANA,28
+	Moves = NIGHTSLASH,LEAFBLADE,LASERFOCUS,SWORDSDANCE
+	IV = 26,26,26,26,26,26
+#-------------------------------
+[BESTFRIEND,Mioko,2]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "You win again....."
+Pokemon = ESPEON,35
+    Gender = female
+	Moves = CONFUSION,PSYCHIC,PSYCHUP,PSYBEAM
+Pokemon = PIKACHU,30
+	Gender = female
+	Form = 7
+Pokemon = KARTANA,28
+	Moves = NIGHTSLASH,LEAFBLADE,LASERFOCUS,SWORDSDANCE
+	IV = 26,26,26,26,26,26
+#-------------------------------	
+[TEAMROCKET_Arlo,Arlo]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "No......, How can I lost by amature noob.....?!"
+Pokemon = MAWILE,30
+	Moves = TOXIC,SUCKERPUNCH,FAKETEARS,PLAYROUGH
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = SCIZOR,33
+	Moves = BULLETPUNCH,AIRSLASH,XSCISSOR,SWORDSDANCE
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = AGGRON,35
+	Moves = METALCLAW,ROCKTOMB,ROAR,HIDDENPOWER
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+#-------------------------------	
+[TEAMNOISE_Buzz,Buzz]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "No......,You little punk.....How dare you....!"
+Pokemon = HYPNO,30
+	Moves = PSYBEAM,HYPNOSIS,CONFUSION,HYPERBEAM
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = ABSOL,33
+	Moves = SUCKERPUNCH,SWORDSDANCE,FUTURESIGHT,PERISHSONG
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = HYDREIGON,35
+	Moves = HIDDENPOWER,DRAGONRUSH,OUTRAGE,HYPERBEAM
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26	
+#-------------------------------	
+[Mystic,Blanche]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "No regartes by lost against grate trainer.....You won."
+Pokemon = GYARADOS,33
+	Moves = ROAR,RAINDANCE,HYPERBEAM,HYDROPUMP
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = MILOTIC,33
+	Moves = HYDROPUMP,RECOVER,ATTRACT,BLIZZARD
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = GLACEON,33
+	Moves = HIDDENPOWER,BLIZZARD,LASTRESORT,HYPERBEAM
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26			
+#-------------------------------	
+[Valor,Candela]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "Lost against trainer like you also honerable, I really enjoyed my match."
+Pokemon = COALOSSAL,33
+	Moves = HEATWAVE,FLAMETHROWER,ANCIENTPOWER,ROCKBLAST
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = NINETALES,33
+	Moves = INFERNO,FLAMETHROWER,SWAGGER,HEX
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = FLAREON,33
+	Moves = HIDDENPOWER,HYPERBEAM,FLAMETHROWER,BODYSLAM
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+#-------------------------------	
+[Instinct,Spark]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "I'm Electrified by you. Indeed you are Grate."
+Pokemon = EMOLGA,33
+	Moves = HIDDENPOWER,DISCHARGE,VOLTSWITCH,CHARM
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = LUXRAY,33
+	Moves = VOLTSWITCH,DISCHARGE,SWAGGER,WILDCHARGE
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+Pokemon = ELECTIVIRE,23
+	Moves = THUNDERWAVE,THUNDERPUNCH,THUNDERBOLT,THUNDER
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+#-------------------------------
+[GENTLEMAN,Omia]
+LoseText = "My, my friends..."
+Pokemon = ELECTABUZZ,32
+Pokemon = SLURPUFF,32
+#-------------------------------
+[SAILOR,DWAYNE]
+LoseText = "You're impressive!"
+Pokemon = ELECTABUZZ,32
+Pokemon = PELIPPER,32
+#-------------------------------
+[ENGINEER,BAILY]
+LoseText = "Fried!"
+Pokemon = PLUSLE,32
+Pokemon = MINUN,32
+Pokemon = ELECTABUZZ,32
+#-------------------------------
+[LEADER_Tsukasa,Tsukasa]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "That was Grate battle."
+Pokemon = DEDENNE,35
+    Moves = CHARM,VOLTSWITCH,ENTRAINMENT,THUNDER
+    AbilityIndex = 0
+    IV = 26,26,26,26,26,26
+	Ball = FRIENDBALL
+Pokemon = SYLVEON,35
+    Gender = female
+    Moves = CHARM,DRAININGKISS,LASTRESORT,MOONBLAST
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 26,26,26,26,26,26
+    Ball = FRIENDBALL
+Pokemon = TAPUKOKO,35
+    Gender = male
+    Moves = CHARGE,DISCHARGE,WILDCHARGE,ELECTRICTERRAIN
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 26,26,26,26,26,26
+    Ball = FRIENDBALL	
+Pokemon = JOLTEON,35
+    Gender = male
+    Moves = THUNDERSHOCK,DISCHARGE,LASTRESORT,THUNDER
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 26,26,26,26,26,26
+    Ball = FRIENDBALL	
+#-------------------------------
+[GAMBLER,HUGO]
+LoseText = "Atcha!\nDidn't go my way!"
+Pokemon = FALINKS,33
+Pokemon = EXCADRILL,32
+Pokemon = DUGTRIO,32
+#-------------------------------
+[YOUNGSTER,EDDIE]
+LoseText = "Aww, I lost."
+Pokemon = HATENNA,31
+Pokemon = SPRITZEE,34	
+#-------------------------------
+[YOUNGSTER,DAVE]
+LoseText = "Aww, I lost."
+Pokemon = SPRITZEE,32
+Pokemon = DUGTRIO,32
+Pokemon = SLOWPOKE,32
+#-------------------------------
+[YOUNGSTER,DILLON]
+LoseText = "Aww, I lost."
+Pokemon = SLOWPOKE,34
+Pokemon = HATENNA,31
+#-------------------------------
+[ENGINEER,BERNIE]
+LoseText = "Whoa!\nYou spark plug!"
+Pokemon = LUXIO,32
+Pokemon = DEDENNE,32
+Pokemon = ELECTABUZZ,32
+#-------------------------------
+[GAMBLER,JASPER]
+LoseText = "Atcha!\nDidn't go my way!"
+Pokemon = MISDREAVUS,32
+Pokemon = MURKROW,32	
+#-------------------------------
+[ENGINEER,BRAXTON]
+LoseText = "That was electric!"
+Pokemon = PLUSLE,32
+Pokemon = MINUN,32
+Pokemon = ELECTABUZZ,32
+#-------------------------------
+[YOUNGSTER,YASU]
+LoseText = "Darn!\nMy POKéMON need to be stronger!"
+okemon = FALINKS,32
+Pokemon = SLOWPOKE,32
+#-------------------------------
+[GAMBLER,DARIAN]
+LoseText = "Atcha!\nDidn't go my way!"
+okemon = ZANGOOSE,32
+Pokemon = ZANGOOSE,32

@@ -1,0 +1,114 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 1 (5) - Route 2 (21)
+5,0,0,21,1,75
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Takeshi Village (22) - Route 01 (76)
+22,North,0,76,South,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Route 01 (76) - Kazemachi (77)
+76,North,0,77,South,4
+# Route 22 (89) - Route 01 (76)
+89,South,57,76,North,0
+# Kazemachi (77) - Route 02 (83)
+77,North,0,83,South,2
+# Route 22 (89) - Kazemachi (77)
+89,East,0,77,West,6
+# Route 02 (83) - Katsuyama (90)
+83,North,0,90,South,2
+# Katsuyama (90) - Route 03 (99)
+90,East,17,99,West,0
+# Route 03 (99) - Route 04 (100)
+99,North,60,100,South,0
+# Route 04 (100) - Mizu Yosie (105)
+100,East,0,105,West,6
+# Route 24 (116) - Route 04 (100)
+116,West,49,100,East,0
+# Route 05 (119) - Route 04 (100)
+119,West,0,100,East,34
+# Route 24 (116) - Mizu Yosie (105)
+116,South,0,105,North,0
+# Route 05 (119) - Mizu Yosie (105)
+119,North,0,105,South,0
+# Route 25 (117) - Route 24 (116)
+117,West,1,116,East,0
+# Route 06 (124) - Nichibotsu no Minato (127)
+124,South,0,127,North,3
+# S.S. Anne Dock (135) - Nichibotsu no Minato (127)
+135,North,0,127,South,7
+# Route 11 (168) - Nichibotsu no Minato (127)
+168,West,0,127,East,1
+# Valor Island Entry (174) - Valor Park Z1 (177)
+174,North,0,177,South,10
+# Valor Park Z2 (178) - Valor Park Z1 (177)
+178,West,0,177,East,2
+# Mystic Island Entry (182) - Mystic Pokemon Park Z1 (184)
+182,North,0,184,South,0
+# Mystic Beach (191) - Mystic Island Entry (182)
+191,West,0,182,East,0
+# Mystic Beach (191) - Mystic Pokemon Park Z1 (184)
+191,West,0,184,East,35
+# Mystic Pokemon Park Z2 (192) - Mystic Pokemon Park Z1 (184)
+192,South,0,184,North,0
+# Mystic Pokemon Park Z2 (192) - Mystic Beach (191)
+192,East,57,191,West,0
+# Mystic Pokemon Park Z3 (195) - Mystic Beach (191)
+195,East,79,191,West,0
+# Mystic Pokemon Park Z3 (195) - Mystic Pokemon Park Z2 (192)
+195,South,0,192,North,0
+# Instinct Island Park Z2 (200) - Instinct Island Park Z5 (203)
+200,East,0,203,West,58
+# Instinct Island Park Z4 (202) - Instinct Island Park Z5 (203)
+202,North,0,203,South,0
+# Instinct Island Park Z3 (201) - Instinct Island Park Z5 (203)
+201,West,0,203,East,58
+# Instinct Island Park Z6 (204) - Instinct Island Park Z5 (203)
+204,South,0,203,North,0
+# Instinct Island Entry (196) - Instinct Island Park Z2 (200)
+196,West,0,200,East,22
+# Instinct Island Park Z1 (199) - Instinct Island Park Z2 (200)
+199,West,16,200,East,0
+# Instinct Island Park Z4 (202) - Instinct Island Park Z2 (200)
+202,West,37,200,East,0
+# Instinct Island Park Z6 (204) - Instinct Island Park Z2 (200)
+204,West,79,200,East,0
+# Instinct Island Park Z7 (205) - Instinct Island Park Z2 (200)
+205,West,100,200,East,0
+# Instinct Island Park Z1 (199) - Instinct Island Entry (196)
+199,South,0,196,North,0
+# Instinct Island Park Z3 (201) - Instinct Island Entry (196)
+201,West,22,196,East,0
+# Instinct Island Park Z4 (202) - Instinct Island Park Z1 (199)
+202,South,0,199,North,0
+# Instinct Island Park Z3 (201) - Instinct Island Park Z1 (199)
+201,West,0,199,East,16
+# Instinct Island Park Z3 (201) - Instinct Island Park Z4 (202)
+201,West,0,202,East,37
+# Instinct Island Park Z6 (204) - Instinct Island Park Z3 (201)
+204,East,79,201,West,0
+# Instinct Island Park Z7 (205) - Instinct Island Park Z3 (201)
+205,East,100,201,West,0
+# Instinct Island Park Z7 (205) - Instinct Island Park Z6 (204)
+205,South,0,204,North,0
